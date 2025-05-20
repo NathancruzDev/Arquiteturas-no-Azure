@@ -37,7 +37,7 @@ Residência de Dados:
 | Azure China | Restrito |
 | Azure Government (EUA) | Autorização necessária |
 
-###Governança e Gerenciamento
+### Governança e Gerenciamento
 - Assinaturas(Subscriptions).
 - Unidade básica de cobrança e isolamento de recursos.
 - Permitem refinar custos por equipe ou projeto.
